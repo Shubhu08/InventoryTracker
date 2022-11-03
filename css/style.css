@@ -1,0 +1,91 @@
+header>div.logohead
+{
+	height: 100px;
+	width: 100%;
+	background-color: #5d174b;
+
+}
+body
+{
+	background-color: #86A0CF;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+button
+{
+	background-color: #132E4B;
+	color: white;
+}
+table
+{
+	width: 100%;
+	text-align: left;
+	border-collapse: collapse;
+}
+th
+{
+	height: 40px;
+	width: 50%;
+	font-size: 24px;
+}
+table, th , td
+{
+	padding: 5px 20px 5px 20px;
+}
+.btn.focus, .btn:focus, .btn:hover
+{
+	color: white;
+}
+.main
+{
+	padding: 100px;
+}
+.login
+{
+	background-color: #D8DBE0;
+	text-align: center;
+	color: white;
+}
+.login_head
+{
+	background-color: #5d174b;
+	height: 100%;
+	color: white;
+	text-align: center;
+}
+.nav-bar
+{
+	background-color: #EDEDED;
+	width: 100%;
+}
+.nav-bar>ul
+{
+	list-style-type: none;
+}
+.nav-bar>ul>a>li
+{
+	display: inline;
+	font-size: 20px;
+	color: #481341;
+	padding: 20px;
+	margin: auto;
+}
+.nav-bar>ul>a:hover, .nav-bar>ul>a:focus
+{
+	text-decoration: none;
+	color: #481341;
+}
+.nav-bar>ul>a>li.active
+{
+	color: #734b02;
+}
+.nav-title
+{
+	color: 	#734b02;
+}
+.inventory-disp
+{
+	background-color: #F2F2F2;
+	padding: 20px;
+	font-size: 18px;
+}
